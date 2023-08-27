@@ -17,12 +17,12 @@ At the start of the bootcamp you need to create a new Github Repository from thi
 <ul>
   <li>[Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)</li>
   <li>[Creating Repo from Github template] (https://youtu.be/8cxYgaMB9ow?list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv)</li>
-  <li>[Setup MFA on your Github profile](Set Up MFA on your GitHub Account)</li>
+  <li>[Setup MFA on your Github profile](https://www.youtube.com/watch?v=oDSeqvRmEUI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv)</li>
 </ul>
 
 ## Journaling Homework 	😵‍💫
 
-The `/journal` directory contains
+The `/journal` directory contains:
 
 - [ ] [Week 0](journal/week0.md)
 - [ ] [Week 1](journal/week1.md)
