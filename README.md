@@ -14,11 +14,11 @@
 At the start of the bootcamp you need to create a new Github Repository from this template.
 
 ### If you are new to Git, we have the following resources:🤩
-
-https://youtu.be/RGOj5yH7evk
-https://youtu.be/8cxYgaMB9ow?list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv
-https://youtu.be/oDSeqvRmEUI?list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv
-
+<ul>
+  <li>[Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)</li>
+  <li>[Creating Repo from Github template] (https://youtu.be/8cxYgaMB9ow?list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv)</li>
+  <li>[Setup MFA on your Github profile](Set Up MFA on your GitHub Account)</li>
+</ul>
 
 ## Journaling Homework 	😵‍💫
 
